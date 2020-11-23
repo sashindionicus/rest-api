@@ -1,4 +1,3 @@
-# rest-api
 # Rest Api for ToDo on Golang  
 
 ###   To run the application 
